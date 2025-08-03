@@ -1,0 +1,40 @@
+{
+    "short_name": "Tukod.ai",
+    "name": "Tukod.ai",
+    "icons": [
+        {
+            "src": "/new-favicon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/new-favicon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/new-favicon.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "/new-favicon.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/new-favicon.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        }
+    ],
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#ffffff",
+    "shortcuts": [],
+    "description": "Tukod.ai is an open source AI app builder.",
+    "screenshots": []
+}
