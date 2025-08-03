@@ -1,6 +1,6 @@
-# Sanghaya - AI-Powered App Builder
+# Tukod.AI - AI-Powered App Builder
 
-Sanghaya is a modern web application that enables users to create and deploy applications using AI. Built with Next.js 15, it provides an intuitive interface for describing your app requirements and automatically generates the code and infrastructure needed to bring your ideas to life.
+Tukod.AI is a modern web application that enables users to create and deploy applications using AI. Built with Next.js 15, it provides an intuitive interface for describing your app requirements and automatically generates the code and infrastructure needed to bring your ideas to life.
 
 ## 🚀 Features
 
@@ -73,8 +73,8 @@ STACK_APP_ID="your-stack-app-id"
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd sanghaya
+   git clone https://github.com/xapantipi/Tukod.AI
+   cd Tukod.AI
    ```
 
 2. **Install dependencies**
@@ -117,7 +117,7 @@ STACK_APP_ID="your-stack-app-id"
 ## 🏗️ Project Structure
 
 ```
-sanghaya/
+Tukod.AI/
 ├── src/
 │   ├── app/                 # Next.js App Router pages
 │   │   ├── api/            # API routes
@@ -204,4 +204,4 @@ For support, please open an issue on GitHub or contact the development team.
 
 ---
 
-**Sanghaya** - Where ideas become applications, powered by AI. 
+**Tukod.AI** - Where ideas become applications, powered by AI. 
